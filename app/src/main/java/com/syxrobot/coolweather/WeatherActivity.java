@@ -65,7 +65,6 @@ public class WeatherActivity extends AppCompatActivity {
 
     private String mWeatherId;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
